@@ -42,7 +42,7 @@ export default function SignIn() {
         <button className="bg-blue-600 text-white py-2 rounded">Sign In</button>
       </form>
       <p className="text-gray-700">
-        Don't have an account?{" "}
+        Don&apos;t have an account?{" "}
         <a href="/signup" className="text-blue-600 hover:underline">Sign Up</a>
       </p>
     </div>

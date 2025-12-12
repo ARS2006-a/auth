@@ -80,12 +80,12 @@ npm install firebase`}
         </div>
 
         <div className="mt-8">
-          <a 
-            href="/"
+          <button 
+            onClick={() => window.location.href = '/'}
             className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 inline-block"
           >
             Back to Home
-          </a>
+          </button>
         </div>
       </div>
     </div>
